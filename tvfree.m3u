@@ -2,135 +2,102 @@
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/logowhite.png",TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1939420176_b1044100_sleng.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png",MNC TV 
 https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1024px-TV3_%28Malaysia%29.svg.png",TV 3
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHScibLw0wiAX7Z_Tqd0NjRw)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1.
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://logos.fandom.com/wiki/Astro_Ceria?file=Astro_Ceria_HD.png",ASTRO CERIA
 http://178.128.107.149:5080/WebRTCApp/streams/ceria.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ASTRO RIA
 http://178.128.107.149:5080/WebRTCApp/streams/riaa.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://images.app.goo.gl/J9RLYK7h6uC2pErB9",ASTRO PRIMA
 http://178.128.107.149:5080/WebRTCApp/streams/prima.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Astro_Arena.png",ASTRO ARENA
 http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://images.app.goo.gl/caSX4T9ddEdvStui6",ASTRO ARENA 2
 http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://ia601902.us.archive.org/11/items/trans-7/Trans%207.png",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w115928028_b744100_sleng.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 http://mantul.biz.id:8888/live/aruba/aruba/4906.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://logos.fandom.com/wiki/Astro_Citra",ASTRO CITRA
 http://178.128.107.149:5080/WebRTCApp/streams/citra.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="Sinetron" tvg-logo="https://images.app.goo.gl/CSKKVDMUGqjMRQ4fA",Raden kian Santang (Ep715)
 https://vodkk.rctiplus.com/hls/2021-09/kk_030921_krks_715_720p/720p.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://archive.org/details/nettv_202003",NET TV
 http://mantul.biz.id:8888/live/aruba/aruba/215.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.cleanpng.com/png-rtv-logo-television-channel-rajawali-corporation-r-6360221/",RTV
 http://mantul.biz.id:8888/live/aruba/aruba/217.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="KID" tvg-logo="https://commons.m.wikimedia.org/wiki/File:2014_Disney_Channel_logo.svg",DISNEY CHANNEL
 http://content-zeuuks-up-1.uplynk.com/channel/4c12214efbd6489a9d06f67798719023/d.m3u8?exp=1637057208&ct=c&cid=4c12214efbd6489a9d06f67798719023&expand=drmOff&iph=ce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e&euid=FD0D94FD-9C7F-450D-B099-A0AD330D2502_000_1_031-04_live_05-02-99_1.1.7.17&cdn=ec&cdn=ec&stgcfg=datg&rays=hjigfedcba&pp2ip=0&delay=10800&ad=disneynow_live&ad.tfcd=1&ad.cust_params=chan%3Ddisneyxd%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D0%26isAutoplay%3D1%26ul%3Den%26transID%3DrdKtXVqTkboOfwj9jLmB_roJq6m2EEoWYGGh476Wc9Wxtyc-oiv3Zw%253D%253D%26aff%3D%26plt%3Dandroid%26swid%3DFD0D94FD-9C7F-450D-B099-A0AD330D2502%26ip%3D64.62.204.183%26hip%3Dce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e%26nlsnDevGrp%3Ddevgrp%252CPHN%26nlsnPlat%3DPLT%252CMBL&ad.adUnit=/disney-xd/disney-now-app/android/video&ad.sssb=0&ad.pp=datg-live-vdms&ap.use=0&ad.vip=64.62.204.183&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://disneynow.go.com&ad.vid=@external_id&ad.ppid=FD0D94FD-9C7F-450D-B099-A0AD330D2502&ad.description_url=https://disneynow.go.com&ad.cmsid=2494279&v=3&sig=dc9e83b615ea05ce2e4c613e87baed297055a9dab3b742546b60a2eb98c67218&pbs=6b5081b426f0439690b318ce549c765b
 
-#EXTM3U
 #EXTINF:-1 group-title="KID" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_Disney_XD.png",DISNEY XD
 http://content-zeuuks-up-1.uplynk.com/channel/4c12214efbd6489a9d06f67798719023/b.m3u8?exp=1637057208&ct=c&cid=4c12214efbd6489a9d06f67798719023&expand=drmOff&iph=ce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e&euid=FD0D94FD-9C7F-450D-B099-A0AD330D2502_000_1_031-04_live_05-02-99_1.1.7.17&cdn=ec&cdn=ec&stgcfg=datg&rays=hjigfedcba&pp2ip=0&delay=10800&ad=disneynow_live&ad.tfcd=1&ad.cust_params=chan%3Ddisneyxd%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D0%26isAutoplay%3D1%26ul%3Den%26transID%3DrdKtXVqTkboOfwj9jLmB_roJq6m2EEoWYGGh476Wc9Wxtyc-oiv3Zw%253D%253D%26aff%3D%26plt%3Dandroid%26swid%3DFD0D94FD-9C7F-450D-B099-A0AD330D2502%26ip%3D64.62.204.183%26hip%3Dce0e38833e9b4b35d9e24e9b3014a45f98be62a38f2e6e88ad23d67d8123f30e%26nlsnDevGrp%3Ddevgrp%252CPHN%26nlsnPlat%3DPLT%252CMBL&ad.adUnit=/disney-xd/disney-now-app/android/video&ad.sssb=0&ad.pp=datg-live-vdms&ap.use=0&ad.vip=64.62.204.183&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://disneynow.go.com&ad.vid=@external_id&ad.ppid=FD0D94FD-9C7F-450D-B099-A0AD330D2502&ad.description_url=https://disneynow.go.com&ad.cmsid=2494279&v=3&sig=dc9e83b615ea05ce2e4c613e87baed297055a9dab3b742546b60a2eb98c67218&pbs=6b5081b426f0439690b318ce549c765b
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.pngkit.com/png/detail/306-3060086_astro-warna-2017-logo-astro-warna.png",ASTRO WARNA
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/oPnzAPC.png",GALAXY TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png",NAT GEO WILD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dcassetcdn.com/design_img/3189415/114738/114738_18052718_3189415_d6354865_image.jpg",FISHING TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://bit.ly/30EWhNZ",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_beIN_SPORTS_1.png ",AR: beIN Sport 1HD
 http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_2.png ",AR: beIN Sport 2HD
 http://88.barouhn.xyz.global.prod.fastly.net/live/61619498700/index.m3u8 
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_3.png ",AR: beIN Sport 3HD
 http://88.barouhn.xyz.global.prod.fastly.net/live/615127888700/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_4.png ",AR: beIN Sport 4HD
 http://88.barouhn.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://logos.fandom.com/wiki/BeIN_Sports_5?file=BS5.svg ",AR: beIN Sport 5HD
 http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.pinterest.es/pin/587086501420689913#imgViewer ",AR: beIN Sport 6HD
 http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="VOD" tvg-logo="https://images.app.goo.gl/XnNi9UUWr2pnUGSS9 ",No Time To Die 2021 4k
 https://c6.videobin.co/oudvgwjhgjtk2yixv5rooezejsf3keygcwnpkp7vrpms2mmw6jrdqjauzzwq/v.mp4
 
-#EXTM3U
 #EXTINF:-1 group-title="VOD" tvg-logo="https://images.app.goo.gl/XnNi9UUWr2pnUGSS9 ",No Time To Die 2021 FHD
 https://m10.vudeo.net/2vp3ulsn5qvjdohilp5rtk4qtl5tld2flpzyg2qnmekue5wdyij5ieegqusa/v.mp4
 
@@ -140,8 +107,71 @@ http://mantul.biz.id:8888/live/aruba/aruba/8266.m3u8
 #EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/04459fc48b5427ba6071a0e04aa98379.png" group-title="INDONESIA HD",NET TV FHD
 http://mantul.biz.id:8888/live/aruba/aruba/215.m3u8
 
-#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/4219431aef3a4e3267de8fc7aefc1076.png" group-title="INDONESIA",RTV
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/4219431aef3a4e3267de8fc7aefc1076.png" group-title="INDONESIA HD",RTV Backup
 http://mantul.biz.id:8888/live/aruba/aruba/217.m3u8
 
 #EXTINF:-1 tvg-id="6651e28fff6917793a5b53fb3d8737cc" tvg-name="MY: Showcase Movies" tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png" group-title="MOVIE",MY: Showcase Movies
 http://mantul.biz.id:8888/live/aruba/aruba/8543.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="",GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="",NET TV Backup
+https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+
+#EXTINF:-1 group-title="MOVIE",kix
+http://iptvid.my.id/ch/kix.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="MOVIE",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 group-title="MOVIE",CINEMAWOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="MOVIE",Warner
+http://iptvid.my.id/ch/wrnr.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="INDONESIA HD",Dunia Lain
+http://iptvid.my.id/ch/dnln.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KNOWLEDGE",Natgeo Backup
+http://iptvid.my.id/ch/natgeo.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KNOWLEDGE",Natgoe Wild Backup
+http://iptvid.my.id/ch/ngwild.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KNOWLEDGE",Discoveri Chanel
+http://iptvid.my.id/ch/dsc.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KNOWLEDGE",Outdoor
+http://iptvid.my.id/ch/outdoor.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KID",aniplus
+http://iptvid.my.id/ch/aniplus.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KID",nickjr
+http://iptvid.my.id/ch/nickjr.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KID",nickelodeon
+http://iptvid.my.id/ch/nickelodeon.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KID",Cartoon Network
+http://iptvid.my.id/ch/cn.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="KID",Dream Work
+http://iptvid.my.id/ch/drmwrk.m3u8?by=iptv_id
+
+#EXTINF:-1 tvg-id="MY: HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="MOVIE",HBO HD Backup
+http://iptvid.my.id/ch/hbo.m3u8
+
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="" group-title="MOVIE",HBO Hits FHD
+http://iptvid.my.id/ch/hbo_hits.m3u8
+
+#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="" group-title="MOVIE",HBO Signature FHD
+http://iptvid.my.id/ch/hbo_sig.m3u8
+
+#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="" group-title="MOVIE",HBO Family FHD
+http://iptvid.my.id/ch/hbo_fam.m3u8
+
+#EXTINF:-1 tvg-id="MY: CINEMAX HD" tvg-name="Cinemax HD" tvg-logo="" group-title="MOVIE",Cinemax HD
+http://iptvid.my.id/ch/cinemax.m3u8
